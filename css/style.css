@@ -867,7 +867,7 @@ textarea.input {
 }
 
 .contact-social {
-  text-align: right;
+  text-align: center;
   margin: 10px 0px;
 }
 
@@ -888,6 +888,8 @@ textarea.input {
 .contact-social a:hover {
   opacity: 0.8;
 }
+
+
 
 /*=========================================================
 	BLOG
